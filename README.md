@@ -76,7 +76,7 @@ See [docs/proposal.pdf](./docs/proposal.pdf) Appendix A for the full inventory o
 
 ## Author
 
-Francis Kioko Masila
+FRANCIS KIOKO MASILA
 
 ## License
 
